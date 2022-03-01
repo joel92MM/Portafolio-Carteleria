@@ -11,7 +11,7 @@
 <figure>  
             
 ### <figcaption> Fotografía de una herramienta tradicional 'Arado'.</figcaption>          
-<img src="assets/Aradi.gif" alt="Fotografía arado"/>
+<img src="assets/Arado.gif" alt="Fotografía arado"/>
 </figure>
 
 <figure>  
