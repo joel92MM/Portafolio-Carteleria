@@ -6,8 +6,8 @@
 ">
   
 <figure>
-<img src="bufalos.jpg" alt="Trulli"/>
-<figcaption>Fig.1 - Trulli, Puglia, Italy.</figcaption>
+<img src="assets/Cara_Gato.gif" alt="Fotografía cara del gato"/>
+<figcaption>Fotografía imprevista de un gatito.</figcaption>
 </figure>
          
 </div>  
