@@ -4,7 +4,7 @@
   
 <figure>  
             
-### <figcaption> Fotografía imprevista de un gatito.</figcaption>          
+### <figcaption> Fotografía imprevista de un gato.</figcaption>          
 <img src="assets/Cara_Gato.gif" alt="Fotografía cara del gato"/>
 </figure>
 
